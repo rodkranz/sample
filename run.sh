@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-go test --cover --race
+go test -v --cover --race
