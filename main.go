@@ -1,9 +1,9 @@
 package a
 
-func Count(word string) (Consonant int, Vowels int) {
+func Count(phrase string) (consonant int, vowels int) {
 	// START Your Logic
 
 
 	// END
-	return Consonant, Vowels
+	return consonant, vowels
 }
